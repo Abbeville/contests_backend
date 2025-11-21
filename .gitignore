@@ -1,0 +1,6 @@
+node_modules
+.env
+.DS_Store
+dist
+check-users.js
+check-test-user.js
